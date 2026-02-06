@@ -6,16 +6,19 @@ questing is optional and not enforced here
 
 ## Lets begin with requirements make sure to have all of the below:
 
-- 1 - you will need all DLCs for base fo4 and a clean installed copy of the game ( *i use steam so cant account for other platforms* ) updated to the newest version and launched at least 1 time
-- 2 - you will need Fallout 4 creation kit installed and launched at least 1 time
-- 3 - you will need 250gb free on a drive (preferably not OS/C drive but will work)  -> *subject to change*
+- 1 - all DLCs for base fo4 and a clean installed copy of the game ( *i use steam so cant account for other platforms* ) updated to the newest version and launched at least 1 time
+- 2 - Fallout 4 creation kit installed and launched at least 1 time
+- 3 - 250gb free on a drive (preferably not OS/C drive but will work)  -> *subject to change*
 
 ## our recommended specs:
 
-we acheived 45-70fps around diamond city on:
+we acheived 45-70fps avg of 65-75 everywhere else around diamond city on:
 - i7-13650H
 - 4050 6gb
 - 32gb ddr4 32000mhz
+
+if you struggle to run this, its fairly easy to disable some of the texture/enb/foilage stuff, ive also included a "*potato pc*" profile in the list which has all 2k/4k textures turned off, all vivid fallot mods off, and a majority of the foilage turned off 
+*(this is a new profile so not entirely optimized yet, but worth it for lower spec pcs)*
 
 *this should be the baseline for the pack and may grow in mods which means it may not be suitable for low end pc's take this at your own*
 
@@ -29,12 +32,18 @@ you can almost gurentee all mods such as maim/un-educated shooter etc will likel
 
 
 
-## Getting started:
+## Getting started installing:
 
 - 1 - ok, so first things first if you have creation kit and fallout 4 installed, you will now need wabbajack - head over to https://www.wabbajack.org/ and download wabbajack and place WabbaJack.exe inside a folder by itself on any drive (Example: D:\WabbaJack) and launch it
-- 2 - now, head over to Nexus and grab the Vault-Tec remasterd zip file, it will likely contain 2 files a json, and a .wabbajack   ( LINK: )
+- 2 - now, head over to Nexus and grab the Vault-Tec remasterd zip file, it will likely contain 2 files a json, and a .wabbajack   ( LINK:https://www.nexusmods.com/fallout4/mods/101080 )
 the wabbajack one is the one your looking for
 - 3 - Now, your going open wabbajack.exe and head over to the browse tab on the left, from there on the top right youll see install from disk, select it and navigate to the nexus file you downloaded and choose the .wabbajack file
+
+## Setup inside mo2:
+
+inside mo2 when finished installing there is minor setup needed, aswell as i will suggest some optional things you can change as i know not everyone enjoys the same gameplay style
+
+- 
 
 
 
