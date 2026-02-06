@@ -17,7 +17,6 @@ Questing exists, but it is **optional and never enforced**.
 - 3 - **250GB of free disk space**  
   *(Preferably not your OS / C: drive, but it will work)*  
   → *subject to change*
-
 ---
 
 ## our recommended specs:
@@ -76,6 +75,9 @@ This pack currently contains **~500 mods** in its **ALPHA** phase and will conti
 
 - 3 - Open `Wabbajack.exe`, then go to the **Browse** tab on the left.  
   In the top-right corner, select **Install from Disk**, navigate to the downloaded Nexus file, and choose the **`.wabbajack`** file.
+  
+ > (while it downloads its possible it fails due to enbseries_fallout4_v0501 not downloading, *if* the download fails head over to http://enbdev.com/mod_fallout4_v0501.htm and download it.
+ > place the zip file inside the download directory wabbajack created for your modlist, restart wabbajack and continue as you did above in step 3 from here it should finish correctly.)
 
 ---
 
