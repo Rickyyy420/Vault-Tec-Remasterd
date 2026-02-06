@@ -90,4 +90,14 @@ This pack currently contains **~500 mods** in its **ALPHA** phase and will conti
 
 
 
+# how to update:
+
+so updating should be straight forward if you did not delete your downloads folder for the modpack
+
+- 1 - take and delete everything in your mods folder besides the downloads and any saves you may want to keep
+  
+- 2 - now your simply going to download the newest nexus file from https://www.nexusmods.com/fallout4/mods/101080?tab=files then same as step 2/3 above besides you select your pre existing modpack downloads folder and set the export to the same folder EG: D:\Modlist\VTRM
+
+
+
 
