@@ -81,10 +81,9 @@ This pack currently contains **~500 mods** in its **ALPHA** phase and will conti
 
 ---
 
-## Setup inside mo2:
+## inside mo2:
 
-Once installation is complete and MO2 opens, there is some **minor setup** required.  
-I will also point out a few **optional tweaks** you can make, as I understand not everyone enjoys the same gameplay style.
+  I will point out a few **optional tweaks** you can make, as I understand not everyone enjoys the same gameplay style.
 
 -
 
